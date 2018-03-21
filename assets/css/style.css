@@ -1,3 +1,31 @@
-h1{
-    color: red;
+body{
+    background-image: url(../images/pattern.png);
+    height: 100%;
+    width:960px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.header {
+    width: 500px;
+    height: 125px;
+    background-color: white;
+    color:#676F54;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 15px;
+    padding-bottom: 8px;
+    border: 5px solid #19535F;
+}
+.solution{
+    height: 300px;
+    width: 400px;
+    background-color: white;
+    text-align: center;
+    float: right;
+}
+.score{
+    height: 300px;
+    width: 300px;
+    background-color: white;
+    text-align: center;
 }
